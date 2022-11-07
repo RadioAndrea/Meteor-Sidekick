@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "nice-nano-kicad")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/assorted parts/nice-nano-kicad")(options "")(descr ""))
+  (lib (name "ultramec")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/assorted parts/LIB_6CJ1N0PR/6CJ1N0PR/KiCad")(options "")(descr ""))
+  (lib (name "b3u sideswitch")(type "KiCad")(uri "/home/acowley/Hobby/electronics/kicad libs/assorted parts/LIB_B3U-3000P/B3U-3000P/KiCad")(options "")(descr ""))
+)
