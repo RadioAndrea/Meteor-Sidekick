@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|159569257|75085001|1e4affd5-ec22-405f-b3fd-8e0999d01b26|20308268-bfdb-4d13-a5be-fc850611fa8a",
+        "courtyards_overlap|27530001|58595001|152763f5-2c07-4369-8427-f5502c4a8d85|d1229d45-3f35-4e86-9581-5b712b70ae17",
+        "courtyards_overlap|44028426|91625001|0a37bb31-d5b0-47d4-b34e-7d3f3004e3d6|dc2a9cf5-5262-4e1a-ada5-ceff52def811"
+      ],
       "meta": {
         "version": 2
       },
@@ -346,7 +350,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Metero Sidekick B.kicad_pro",
+    "filename": "Meteor Sidekick kailh scissor.kicad_pro",
     "version": 1
   },
   "net_settings": {
