@@ -1,4 +1,4 @@
-403541391073673
+401873867093969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87611,13 +87611,6 @@ varistor
 0
 2
 2
-custom symbols
-nice_nano_v2
-
-
-0
-29
-29
 marbastlib-choc
 LED_choc_6028R
 Add-on for regular choc-footprints with 6028 reverse mount LED
