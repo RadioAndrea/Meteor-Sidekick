@@ -7,7 +7,17 @@ Current implementation is with the Kailh Scissor switches as they are very thin 
 
 If you know of a way to get thinner mechanical switches, please let me know!
 
-Board currently in-production for first round of testing
+# Project Status
+## November 2022
+Boards that were created were milled with the wrong size of drill bit due to board fab error.
+Fabricator remade boards to rectify this.
+
+## January 2023
+New boards arrived and components are still being collected.
+
+## Jul 2023
+Solder paste stencil arrived and reflow oven was obtained.
+Soldering of transistors will happen by paste and reflow, while switches will be done entirely by hand.
 
 # 2D Drawing
 ![Back of keyboard](https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/drawing.png)
