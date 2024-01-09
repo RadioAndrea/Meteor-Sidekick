@@ -25,12 +25,12 @@ Board has been produced and now soldered thanks to my steady handed assistant.
 # Images
 ## Real Photographs
 ### SMD Soldering
-![SMD parts reflow soldered]((https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/reflow.png)
+![SMD parts reflow soldered](https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/reflow.png)
 
 ### Adding Switches and Caps
-![Swithches installed, caps being added]((https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/switchcaps.png)
+![Swithches installed, caps being added](https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/switchcaps.png)
 ### Praise the manufacturing tolerances
-![Only one keyswitch was out of tolerence]((https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/tolerances.png)
+![Only one keyswitch was out of tolerence](https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/tolerances.png)
 
 ## 2D Drawing
 ![Back of keyboard](https://raw.githubusercontent.com/RadioAndrea/Meteor-Sidekick/main/drawing.png)
